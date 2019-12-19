@@ -1,1 +1,1 @@
-export { default } from './src/ACrudController'; 
+export { ACrudController } from './src/ACrudController'; 
